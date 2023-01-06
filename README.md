@@ -1,6 +1,6 @@
 # Juego de Damas
 
-Proyecto de clase del juego de las damas.
+Proyecto de clase del juego de las damas.\n
 · Lenguaje Java
 · Librería JFrame para la intefaz
 · Uso de Canvas para pintar el tablero
